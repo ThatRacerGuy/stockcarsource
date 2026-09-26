@@ -1,0 +1,47 @@
+{
+  "year": "1992",
+  "series": {
+    "cup": {
+      "notes": [
+        "Alan Kulwicki is the most recent owner-driver to win a NASCAR Cup Series championship.",
+        "Kulwicki led the championship standings after just one race - the last race. He had the best average finish of all drivers in 1992 despite not leading in series in wins, top 5's, or top 10's."
+      ],
+      "races": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ]
+    },
+    "grand-national": {
+      "races": [
+        "01"
+      ]
+    }
+  }
+}

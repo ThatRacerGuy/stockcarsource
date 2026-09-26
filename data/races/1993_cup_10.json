@@ -1,0 +1,526 @@
+{
+  "name": "Save Mart Supermarkets 300K",
+  "date": "1993-05-16",
+  "track_id": "sears-point",
+  "lap": 74,
+  "series": "cup",
+  "results": [
+    {
+      "driver_id": "geoffrey-bodine",
+      "sponsor": "Motorcraft",
+      "car_number": 15,
+      "laps_led": 30,
+      "org_id": "bud-moore-engineering",
+      "model_id": "thunderbird",
+      "starting_position": 3,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "ernie-irvan",
+      "sponsor": "Kodak Film",
+      "car_number": 4,
+      "laps_led": 2,
+      "org_id": "morgan-mcclure-motorsports",
+      "model_id": "lumina",
+      "starting_position": 4,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "ricky-rudd",
+      "sponsor": "Tide",
+      "car_number": 5,
+      "laps_led": 0,
+      "org_id": "hendrick-motorsports",
+      "model_id": "lumina",
+      "starting_position": 2,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "ken-schrader",
+      "sponsor": "Kodiak",
+      "car_number": 25,
+      "laps_led": 0,
+      "org_id": "hendrick-motorsports",
+      "model_id": "lumina",
+      "starting_position": 8,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "kyle-petty",
+      "sponsor": "Mello Yello",
+      "car_number": 42,
+      "laps_led": 0,
+      "org_id": "sabco-racing",
+      "model_id": "grand-prix",
+      "starting_position": 18,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "dale-earnhardt",
+      "sponsor": "GM Goodwrench",
+      "car_number": 3,
+      "laps_led": 33,
+      "org_id": "richard-childress-racing",
+      "model_id": "lumina",
+      "starting_position": 1,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "wally-dallenbach-jr",
+      "sponsor": "Keystone Beer",
+      "car_number": 16,
+      "laps_led": 0,
+      "org_id": "roush-racing",
+      "model_id": "thunderbird",
+      "starting_position": 7,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "rick-wilson",
+      "sponsor": "STP",
+      "car_number": 44,
+      "laps_led": 0,
+      "org_id": "petty-enterprises",
+      "model_id": "grand-prix",
+      "starting_position": 20,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "terry-labonte",
+      "sponsor": "Kellogg's",
+      "car_number": 14,
+      "laps_led": 0,
+      "org_id": "hagan-racing",
+      "model_id": "lumina",
+      "starting_position": 10,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "hut-stricklin",
+      "sponsor": "McDonald's",
+      "car_number": 27,
+      "laps_led": 0,
+      "org_id": "junior-johnson-associates",
+      "model_id": "thunderbird",
+      "starting_position": 36,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "jeff-gordon",
+      "sponsor": "DuPont Auto Finishes",
+      "car_number": 24,
+      "laps_led": 0,
+      "org_id": "hendrick-motorsports",
+      "model_id": "lumina",
+      "starting_position": 15,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "sterling-marlin",
+      "sponsor": "Raybestos Brakes",
+      "car_number": 8,
+      "laps_led": 2,
+      "org_id": "stavola-brothers-racing",
+      "model_id": "thunderbird",
+      "starting_position": 23,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "dale-jarrett",
+      "sponsor": "Interstate Batteries",
+      "car_number": 18,
+      "laps_led": 0,
+      "org_id": "joe-gibbs-racing",
+      "model_id": "lumina",
+      "starting_position": 32,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "morgan-shepherd",
+      "sponsor": "Citgo",
+      "car_number": 21,
+      "laps_led": 0,
+      "org_id": "wood-brothers-racing",
+      "model_id": "thunderbird",
+      "starting_position": 12,
+      "lap": 74,
+      "status": "running"
+    },
+    {
+      "driver_id": "davey-allison",
+      "sponsor": "Texaco-Havoline",
+      "car_number": 28,
+      "laps_led": 0,
+      "org_id": "robert-yates-racing",
+      "model_id": "thunderbird",
+      "starting_position": 9,
+      "lap": 73,
+      "status": "crash"
+    },
+    {
+      "driver_id": "bobby-labonte",
+      "sponsor": "Maxwell House",
+      "car_number": 22,
+      "laps_led": 0,
+      "org_id": "bill-davis-racing",
+      "model_id": "thunderbird",
+      "starting_position": 41,
+      "lap": 73,
+      "status": "crash"
+    },
+    {
+      "driver_id": "bill-elliott",
+      "sponsor": "Budweiser",
+      "car_number": 11,
+      "laps_led": 0,
+      "org_id": "junior-johnson-associates",
+      "model_id": "thunderbird",
+      "starting_position": 17,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "derrike-cope",
+      "sponsor": "Bojangles'",
+      "car_number": 98,
+      "laps_led": 0,
+      "org_id": "cale-yarborough-motorsports",
+      "model_id": "thunderbird",
+      "starting_position": 11,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "harry-gant",
+      "sponsor": "Skoal Bandit",
+      "car_number": 33,
+      "laps_led": 0,
+      "org_id": "leo-jackson-racing",
+      "model_id": "lumina",
+      "starting_position": 35,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "dick-trickle",
+      "sponsor": "Carolina Pottery",
+      "car_number": 75,
+      "laps_led": 0,
+      "org_id": "butch-mock-motorsports",
+      "model_id": "thunderbird",
+      "starting_position": 38,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "rick-carelli",
+      "sponsor": "Chesrown Auto Group",
+      "car_number": 37,
+      "laps_led": 0,
+      "org_id": "marshall-chesrown",
+      "model_id": "lumina",
+      "starting_position": 43,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "tommy-kendall",
+      "sponsor": "Family Channel",
+      "car_number": 7,
+      "laps_led": 0,
+      "org_id": "ak-racing",
+      "model_id": "thunderbird",
+      "starting_position": 33,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "michael-waltrip",
+      "sponsor": "Pennzoil",
+      "car_number": 30,
+      "laps_led": 6,
+      "org_id": "bahari-racing",
+      "model_id": "grand-prix",
+      "starting_position": 16,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "brett-bodine",
+      "sponsor": "Quaker State",
+      "car_number": 26,
+      "laps_led": 0,
+      "org_id": "king-racing",
+      "model_id": "thunderbird",
+      "starting_position": 26,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "pj-jones",
+      "sponsor": "Melling Performance",
+      "car_number": 9,
+      "laps_led": 0,
+      "org_id": "melling-racing",
+      "model_id": "thunderbird",
+      "starting_position": 14,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "bill-sedgwick",
+      "sponsor": "Spears Motorsports",
+      "car_number": 76,
+      "laps_led": 0,
+      "org_id": "wayne-spears",
+      "model_id": "lumina",
+      "starting_position": 34,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "jimmy-spencer",
+      "sponsor": "Meineke Mufflers",
+      "car_number": 12,
+      "laps_led": 0,
+      "org_id": "bobby-allison-motorsports",
+      "model_id": "thunderbird",
+      "starting_position": 22,
+      "lap": 73,
+      "status": "running"
+    },
+    {
+      "driver_id": "dave-marcis",
+      "sponsor": "Pronto Auto Parts",
+      "car_number": 71,
+      "laps_led": 0,
+      "org_id": "marcis-auto-racing",
+      "model_id": "lumina",
+      "starting_position": 25,
+      "lap": 72,
+      "status": "running"
+    },
+    {
+      "driver_id": "rick-mast",
+      "sponsor": "Skoal Classic",
+      "car_number": 1,
+      "laps_led": 0,
+      "org_id": "precision-products-racing",
+      "model_id": "thunderbird",
+      "starting_position": 31,
+      "lap": 72,
+      "status": "running"
+    },
+    {
+      "driver_id": "dirk-stephens",
+      "sponsor": "Pepsi / Mark's Drywall",
+      "car_number": 20,
+      "laps_led": 0,
+      "org_id": "tom-craigen",
+      "model_id": "thunderbird",
+      "starting_position": 39,
+      "lap": 72,
+      "status": "running"
+    },
+    {
+      "driver_id": "bill-schmitt",
+      "sponsor": "Nevada City Spring Water",
+      "car_number": 73,
+      "laps_led": 0,
+      "org_id": "bill-schmitt",
+      "model_id": "thunderbird",
+      "starting_position": 28,
+      "lap": 71,
+      "status": "running"
+    },
+    {
+      "driver_id": "butch-gilliland",
+      "sponsor": "Gear Engineering",
+      "car_number": 36,
+      "laps_led": 0,
+      "org_id": "laurie-gilliland",
+      "model_id": "lumina",
+      "starting_position": 27,
+      "lap": 71,
+      "status": "running"
+    },
+    {
+      "driver_id": "dorsey-schroeder",
+      "sponsor": "Country Time",
+      "car_number": 68,
+      "laps_led": 0,
+      "org_id": "tristar-motorsports",
+      "model_id": "thunderbird",
+      "starting_position": 19,
+      "lap": 69,
+      "status": "crash"
+    },
+    {
+      "driver_id": "john-krebs",
+      "sponsor": "Diamond Ridge",
+      "car_number": 29,
+      "laps_led": 0,
+      "org_id": "gary-bechtel",
+      "model_id": "lumina",
+      "starting_position": 29,
+      "lap": 68,
+      "status": "transmission"
+    },
+    {
+      "driver_id": "darrell-waltrip",
+      "sponsor": "Western Auto",
+      "car_number": 17,
+      "laps_led": 0,
+      "org_id": "darwal-inc",
+      "model_id": "lumina",
+      "starting_position": 13,
+      "lap": 67,
+      "status": "engine"
+    },
+    {
+      "driver_id": "kenny-wallace",
+      "sponsor": "Dirt Devil",
+      "car_number": 40,
+      "laps_led": 0,
+      "org_id": "sabco-racing",
+      "model_id": "grand-prix",
+      "starting_position": 21,
+      "lap": 66,
+      "status": "running"
+    },
+    {
+      "driver_id": "phil-parsons",
+      "sponsor": "Manheim Auctions",
+      "car_number": 41,
+      "laps_led": 0,
+      "org_id": "larry-hedrick-motorsports",
+      "model_id": "lumina",
+      "starting_position": 37,
+      "lap": 65,
+      "status": "rear end"
+    },
+    {
+      "driver_id": "rusty-wallace",
+      "sponsor": "Miller Genuine Draft",
+      "car_number": 2,
+      "laps_led": 1,
+      "org_id": "penske-racing-south",
+      "model_id": "grand-prix",
+      "starting_position": 6,
+      "lap": 64,
+      "status": "transmission"
+    },
+    {
+      "driver_id": "ted-musgrave",
+      "sponsor": "Jasper Engines",
+      "car_number": 55,
+      "laps_led": 0,
+      "org_id": "radius-motorsports",
+      "model_id": "thunderbird",
+      "starting_position": 24,
+      "lap": 61,
+      "status": "running"
+    },
+    {
+      "driver_id": "mark-martin",
+      "sponsor": "Valvoline",
+      "car_number": 6,
+      "laps_led": 0,
+      "org_id": "roush-racing",
+      "model_id": "thunderbird",
+      "starting_position": 5,
+      "lap": 57,
+      "status": "rear end"
+    },
+    {
+      "driver_id": "bobby-hillin-jr",
+      "sponsor": "Heilig-Meyers",
+      "car_number": 90,
+      "laps_led": 0,
+      "org_id": "donlavey-racing",
+      "model_id": "thunderbird",
+      "starting_position": 30,
+      "lap": 57,
+      "status": "rear end"
+    },
+    {
+      "driver_id": "jeff-davis",
+      "sponsor": "Van-K Karting Wheels",
+      "car_number": 81,
+      "laps_led": 0,
+      "org_id": "jeff-davis",
+      "model_id": "thunderbird",
+      "starting_position": 40,
+      "lap": 46,
+      "status": "crash"
+    },
+    {
+      "driver_id": "hershel-mcgriff",
+      "sponsor": "J.T. Carriers",
+      "car_number": 4,
+      "laps_led": 0,
+      "org_id": "john-strauser",
+      "model_id": "lumina",
+      "starting_position": 42,
+      "lap": 27,
+      "status": "engine"
+    }
+  ],
+  "missed_qualifying": [
+    {
+      "driver_id": "rick-scribner",
+      "sponsor": "All-Pro Auto Parts",
+      "car_number": 51,
+      "org_id": "rick-scribner",
+      "model_id": "lumina"
+    },
+    {
+      "driver_id": "rk-smith",
+      "sponsor": "Midgley Racing",
+      "car_number": 9,
+      "org_id": "dick-midgley",
+      "model_id": "grand-prix"
+    },
+    {
+      "driver_id": "jack-sellers",
+      "sponsor": "Coca-Cola",
+      "car_number": 48,
+      "org_id": "adele-emerson",
+      "model_id": "regal"
+    },
+    {
+      "driver_id": "tony-hunt",
+      "sponsor": "Shaver / Boring Business",
+      "car_number": 56,
+      "org_id": "jeanie-hunt",
+      "model_id": "lumina"
+    },
+    {
+      "driver_id": "scott-gaylord",
+      "sponsor": "Oliver Manufacturing",
+      "car_number": 52,
+      "org_id": "jimmy-means-racing",
+      "model_id": "grand-prix"
+    },
+    {
+      "driver_id": "wayne-jacks",
+      "sponsor": "Imperial Palace Hotel",
+      "car_number": 58,
+      "org_id": "wayne-jacks",
+      "model_id": "grand-prix"
+    }
+  ]
+}
